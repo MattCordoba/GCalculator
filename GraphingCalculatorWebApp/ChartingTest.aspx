@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="ChartingTest.aspx.vb" Inherits="GraphingCalculatorWebApp.ChartingTest" %>
+﻿<%@ Page Title="Data Analysis(Still in Build)" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="ChartingTest.aspx.vb" Inherits="GraphingCalculatorWebApp.ChartingTest" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <script type="text/javascript" src="dhtmlxGrid/dhtmlxGrid/codebase/dhtmlxcommon.js"></script>
     <script type="text/javascript" src="dhtmlxGrid/dhtmlxGrid/codebase/dhtmlxgrid.js"></script>

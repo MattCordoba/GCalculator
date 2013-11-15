@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="false"
+﻿<%@ Page Title="Graph our Wall.com" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="false"
     CodeBehind="Default.aspx.vb" Inherits="GraphingCalculatorWebApp._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
