@@ -11,7 +11,7 @@
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#">News and Blog</a></li>
             <li><a href="#">Source Code</a></li>
-            <li><a href="#">Other Projects</a></li>
+            <li><a href="Default.aspx">Other Projects</a></li>
             <li class="divider"></li>
             <li><a href="#">Help</a></li>
         </ul>
