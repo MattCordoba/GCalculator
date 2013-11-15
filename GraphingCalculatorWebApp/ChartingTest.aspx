@@ -134,7 +134,8 @@
                 <li><a href="#">Analysis and Reporting center</a></li>
                 <li class="divider"></li>
                 <li id="SourceLI"><a id="SourceLink" href="#SourceCode" onclick="SourceCodeClick()">Source Code</a></li>
-                <li><a href="#">Other Projects</a></li>
+                <li><a href="Default.aspx">Graph our Wall.com</a></li>
+                <li><a href="http://intense-brushlands-8847.herokuapp.com/artists">Music U, a RoR based Music Directory (in Build)</a></li>
                 <li class="divider"></li>
                 <li id="HelpLI"><a href="#Help" onclick="HelpClick()">Help</a></li>
                 <li onmouseover="MyService.loadData.GetData()"></li>

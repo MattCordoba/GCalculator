@@ -2,7 +2,7 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        'DataLiteral1.Text = GoogleCharting.generateGoogleChartDataString(CoordinateMaker.makeCoordinateList("y=x", 1.0, 3.0))
+        DataLiteral1.Text = GoogleCharting.generateGoogleChartDataString(CoordinateMaker.makeCoordinateList("y=x", 1.0, 3.0))
     End Sub
 
     Protected Sub SubmitBtn_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles SubmitFunctionBtn.Click

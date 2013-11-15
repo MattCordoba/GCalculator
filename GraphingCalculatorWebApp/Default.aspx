@@ -11,7 +11,8 @@
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#">News and Blog</a></li>
             <li><a href="#">Source Code</a></li>
-            <li><a href="ChartingTest.aspx">Other Projects</a></li>
+            <li><a href="ChartingTest.aspx">Data Analysis Demo Build</a></li>
+            <li><a href="http://intense-brushlands-8847.herokuapp.com/artists">Music U, a RoR based Music Directory (in Build)</a></li>
             <li class="divider"></li>
             <li><a href="#">Help</a></li>
         </ul>
@@ -53,7 +54,7 @@
     <div id="page-footer" class="pull-left">
         <hr />
         <div class="pull-left">
-            <p class="muted credit">Written by <a href="https://github.com/MattCordoba/">Matt Cordoba</a>, Christian Kames, and Jon Doucette.</p>
+            <p class="muted credit">Written by <a href="https://github.com/MattCordoba/">Matt Cordoba</a>, <a href="https://github.com/ckaut">Christian Kames</a>, and <a href="https://github.com/jcd1994?source=cc">Jon Doucette</a>.</p>
         </div>
     </div>
 </div>
