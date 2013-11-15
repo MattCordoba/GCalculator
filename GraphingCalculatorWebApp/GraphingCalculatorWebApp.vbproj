@@ -2436,7 +2436,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <Content Include="Site.Master" />
-    <Content Include="Web.Deploy.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
