@@ -17,6 +17,13 @@ Public Class DataConnection
         con.Close()
         Return coordinates
     End Function
+	'''
+	' @param d 
+	' Date.  Date requires valid Date in a standard UK format rather than US 
+	' ie: DD/MM/YYYY
+	' @returns
+	' stats for that specific day that are pulled from the database
+	'''
     Public Shared Function getStatsForDay(ByVal d As Date) As List(Of Coordinate)
         Dim coordinates As New List(Of Coordinate)
         Dim con As New SqlConnection
