@@ -1,3 +1,11 @@
+/**
+* Quick processing test script for the serial port connection
+* graphs a simple version of y=x once a connection is received from
+* the microcontroller
+*
+* CHANGE LATER
+*
+*/
 import processing.serial.*;
 int xstart, xstop, xmax;
 Serial myPort;
